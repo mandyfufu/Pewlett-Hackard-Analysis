@@ -1,4 +1,4 @@
-dept
+/* dept
 -
 dept_no varchar pk FK >- dept_emp.dept_no
 dept_name varchar
@@ -38,7 +38,7 @@ titles
 emp_no int FK >- emp.emp_no
 title varchar
 from_date date
-to_date date
+to_date date */
 
 
 -- Creating tables for PH-EmployeeDB
